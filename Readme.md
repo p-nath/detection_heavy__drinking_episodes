@@ -1,4 +1,5 @@
 ## Detection of Heavy Drinking Episodes Using Smartphone Accelerometer Data
+
 Details
 ---
 
